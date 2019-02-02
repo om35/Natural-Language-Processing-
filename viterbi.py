@@ -1,4 +1,3 @@
-#Viterbi Algorithm implemented by OUERFELLI Mohamed 
 # M1 informatique
 #Projet Traitement Automatique des Langues (TAL2019) - TP03
 
