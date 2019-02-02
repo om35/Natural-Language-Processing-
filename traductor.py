@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-
+# M1 informatique
+#Projet Traitement Automatique des Langues (TAL2019) - TP04
 import sys
 import math
 
