@@ -1,2 +1,3 @@
-# TAL_Project
-Projet Traitement Automatique des langues (Traducteur Français-Anglais)
+# NLP_Project 2018/2019 - M1 Computer Science
+Natural Language Processing project
+Translation EN - FR
